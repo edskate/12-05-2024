@@ -16,3 +16,5 @@ Creating a box of comments
 - Thank you and goodbye.
 - Where are you from?
 - I am from Spain
+# HTML DESCRIBES
+THE STRUCTURE OF PAGES.
