@@ -3,3 +3,5 @@
 ```
 Creating a box of comments
 ```
+- Creation a paragraph
+- Creation a color 
